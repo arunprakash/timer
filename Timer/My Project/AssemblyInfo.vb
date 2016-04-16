@@ -11,7 +11,7 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("Timer")>
 <Assembly: AssemblyDescription("Simple Timer to track the Time in Office")>
-<Assembly: AssemblyCompany("CTS")>
+<Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("Timer")>
 <Assembly: AssemblyCopyright("Copyright © CTS 2016")>
 <Assembly: AssemblyTrademark("")>
