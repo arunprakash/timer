@@ -85,7 +85,7 @@ Partial Class Timer
         Me.Name = "Timer"
         Me.ShowInTaskbar = False
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "TimeInOffice"
+        Me.Text = "Timer"
         Me.ResumeLayout(False)
 
     End Sub
